@@ -1,0 +1,109 @@
+﻿#header h1{
+font-size:48px;
+font-family:Arial,sans-serif;
+font-style:italic;
+color:#9932CC;
+font-weight:bold;
+padding:10px 0 10px 0;
+}
+.dropdown{
+font-size:20px;
+}
+  .nav-item li a {
+      font-size: 20px;
+      color: #9932CC !important;
+  }
+  .nav-item li a:hover, .nav-item li.active a {
+      color: #9932CC !important;
+      background-color: #fff !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #fff !important;
+}
+#contactForm{
+background-color:rgba(20,20,255,0.6); max-height: 400px;
+max-width: 400px;
+margin: 0 auto;
+}
+#contact h2{
+font-size: 20px;
+color: #7B68EE;
+text-align:center;
+padding:5px 0 5px 0;
+}
+.form input{
+background-color: #fff;
+opacity: 1;
+padding:5px;
+margin: 5px;
+width: 100%;
+max-width: 380px;
+border:0;
+margin-left: 5px;
+color: #666;
+}
+.contact-message{
+background-color: #fff;
+opacity: 1;
+padding:5px;
+margin: 5px;
+width: 100%;
+max-width: 380px;
+border:0;
+margin-left: 5px;
+color: #666;
+}
+.btn{
+margin-left:10px;
+margin-bottom:10px;
+}
+.service{
+background-image:url("USTOPCC.png");
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center center;
+}
+.service h2{
+font-size: 32px;
+color: #ffffff;
+text-align:center;
+padding:40px 0 20px 0;
+}
+.service li{
+font-size: 32px;
+color: #ffffff;
+padding:20px 0 20px 0;
+}
+.forum h2{
+font-size: 20px;
+color: #7B68EE;
+text-align:center;
+padding:5px 0 5px 0;
+}
+.forum{
+background-color:#F5F5DC; max-height: 250px;
+max-width: 350px;
+margin: 0 auto;
+}
+.forum.control-label{
+margin-left:5px;
+}
+.forum.form-control{
+margin-right:10px;
+}
+.stusignup{
+background-color:#F5F5F5; max-height: 400px;
+max-width: 350px;
+margin: 5px auto;
+}
+.stusignup h2{
+font-size: 20px;
+color: #7B68EE;
+text-align:center;
+padding:5px 0 5px 0;
+}
+.stusignup #username,#email,#phone,#pwd{
+margin-left:10px;
+margin-right:15px;
+}
